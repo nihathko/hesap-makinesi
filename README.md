@@ -1,5 +1,7 @@
 # Bilimsel Hesap Makinesi
 
+**Hemen kullan:** https://nihathko.github.io/hesap-makinesi/
+
 Tarayıcıda çalışan, kurulum gerektirmeyen bilimsel hesap makinesi. Tek bir `index.html` dosyasından oluşur; indirip çift tıklamanız yeterli.
 
 ![Hesap makinesi ekran görüntüsü](onizleme-masaustu.png)
@@ -44,7 +46,7 @@ Tarayıcıda çalışan, kurulum gerektirmeyen bilimsel hesap makinesi. Tek bir 
 
 ## Kullanım
 
-`index.html` dosyasını indirin ve tarayıcıda açın. İnternet bağlantısı yalnızca yazı tiplerini yüklemek için kullanılır; bağlantı yoksa sistem yazı tipiyle çalışmaya devam eder.
+Yukarıdaki linkten doğrudan kullanabilir ya da `index.html` dosyasını indirip tarayıcıda açabilirsiniz. Telefonda "Ana ekrana ekle" ile uygulama gibi kullanılabilir. İnternet bağlantısı yalnızca yazı tiplerini yüklemek için kullanılır; bağlantı yoksa sistem yazı tipiyle çalışmaya devam eder.
 
 ---
 
