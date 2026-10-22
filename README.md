@@ -55,3 +55,7 @@ Geliştiren: **HKO Software**
 ## Lisans
 
 MIT Lisansı: ücretsiz kullanılabilir, değiştirilebilir ve paylaşılabilir; telif notunun (HKO Software) korunması yeterlidir. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
+
+## Gizlilik
+
+Çerez yok, takip yok. İşlem geçmişi yalnızca kendi tarayıcınızda saklanır. Yazı tipleri sitenin içinden yüklenir (`fonts/`, SIL Open Font License 1.1). Ayrıntılar sayfanın altındaki "Gizlilik ve kullanım" bağlantısında.
