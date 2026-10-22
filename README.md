@@ -51,3 +51,7 @@ Yukarıdaki linkten doğrudan kullanabilir ya da `index.html` dosyasını indiri
 ---
 
 Geliştiren: **HKO Software**
+
+## Lisans
+
+MIT Lisansı: ücretsiz kullanılabilir, değiştirilebilir ve paylaşılabilir; telif notunun (HKO Software) korunması yeterlidir. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
