@@ -46,7 +46,7 @@ Tarayıcıda çalışan, kurulum gerektirmeyen bilimsel hesap makinesi. Tek bir 
 
 ## Kullanım
 
-Yukarıdaki linkten doğrudan kullanabilir ya da `index.html` dosyasını indirip tarayıcıda açabilirsiniz. Telefonda "Ana ekrana ekle" ile uygulama gibi kullanılabilir. İnternet bağlantısı yalnızca yazı tiplerini yüklemek için kullanılır; bağlantı yoksa sistem yazı tipiyle çalışmaya devam eder.
+Yukarıdaki linkten doğrudan kullanabilir ya da `index.html` dosyasını indirip tarayıcıda açabilirsiniz. Telefonda "Ana ekrana ekle" ile uygulama gibi kullanılabilir. İnternet bağlantısı gerekmez; dosyayı tek başına indirirseniz yazı tipleri yerine sistem yazı tipi kullanılır.
 
 ---
 
